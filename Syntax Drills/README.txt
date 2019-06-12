@@ -6,6 +6,18 @@ And Drill 7 is in a separate file also appropriately named.
 
 Thanks for all you do!
 
+ProcDrills is a collection of coding exercises that focus on procedure creation. 
+It includes:
+Parameter establishment
+drop/delete procedures
+saving computing with SET NO COUNT
+
+TwoJoinsTwoParameters
+
+is the file containing the final result for the drill in the SQL Course with the challenge of 
+you guessed it
+creating a procedure with two joins and two parameters.
+
 
 
 Eddy:)
